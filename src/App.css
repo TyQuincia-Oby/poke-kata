@@ -1,0 +1,13 @@
+* {
+  background-color: green;
+}
+.poke {
+  font-family: sans-serif;
+  text-align: center;
+  height: 100vh;
+  background-color: greenyellow;
+  padding: 20px;
+  margin: 100px;
+  border-radius: 0 500px 0 500px;
+  color: gainsboro;
+}
